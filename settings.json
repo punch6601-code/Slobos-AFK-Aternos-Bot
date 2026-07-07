@@ -6,10 +6,10 @@
     "type": "online"
   },
   "server": {
-    "ip": "High_Rank0065.aternos.me",
-    "port": 30376,
-    "version": "1.21.11",
-    "try-creative": false
+    "ip": "CRAFSMPY.aternos.me",
+    "port": 19923,
+    "version": "26.1.2",
+    "try-creative": true
   },
   "position": {
     "enabled": true,
